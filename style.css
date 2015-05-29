@@ -1,0 +1,31 @@
+.sample {
+	text-align: center;
+}
+
+.sample1{
+	font-size: 15pt;
+}
+
+.sample2{
+	color:purple;
+	
+}
+.soon{
+	text-align: center;
+	color:red;
+}
+
+#banner{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 25px;
+	
+}
+
+img{
+	height:200px;
+	width:700px;
+
+}
+
+
